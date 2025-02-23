@@ -6,7 +6,6 @@ namespace ContactConsoleApp
 {
     internal class Program
     {
-        public enum enMainMenu {Contact=1,Country=2 };
         static void TestFindContact(int ID)
         {
             clsContact ContactFind = clsContact.Find(ID);
@@ -87,22 +86,13 @@ namespace ContactConsoleApp
                 Console.WriteLine("Contact Updated Fiald!");
             }
         }
-<<<<<<< HEAD
         static void TestUpdateCountry(int id)
         {
             clsCountry CountryUpdate = clsCountry.FindCountries(id);
-=======
-        static void TestUpdateCountry(string CountryName)
-        {
-            clsCountry CountryUpdate = clsCountry.FindCountries(CountryName);
->>>>>>> 9a3df3c750b01ea1226dc0ff1ebb1f5f30c72c8e
 
             CountryUpdate.CountryName = "Germany";
             CountryUpdate.CountryCode = "112";
             CountryUpdate.PhoneCode = "777";
-
-
-
 
             if (CountryUpdate.Save())
             {
@@ -171,15 +161,10 @@ namespace ContactConsoleApp
                 Console.WriteLine("No ,Country Is Not Found.");
 
         }
-<<<<<<< HEAD
-        static void TestFindCountries(int id)
-        {
-            clsCountry FindCountry = clsCountry.FindCountries(id);
-=======
+
         static void TestFindCountries(string CountryName)
         {
-            clsCountry FindCountry = clsCountry.FindCountries(CountryName);
->>>>>>> 9a3df3c750b01ea1226dc0ff1ebb1f5f30c72c8e
+            clsCountry FindCountry = clsCountry.FindCountriesByName(CountryName);
             if (FindCountry != null)
             {
                 Console.WriteLine($"Country ID : {FindCountry.CountryID}");
@@ -189,11 +174,8 @@ namespace ContactConsoleApp
             }
             else
             {
-<<<<<<< HEAD
-                Console.WriteLine("Country [" + id + "] Not Found!");
-=======
+
                 Console.WriteLine("Country [" + CountryName + "] Not Found!");
->>>>>>> 9a3df3c750b01ea1226dc0ff1ebb1f5f30c72c8e
 
             }
         }
@@ -220,19 +202,17 @@ namespace ContactConsoleApp
             return Number;
 
         }
-       
-        
+
         static void Main(string[] args)
         {
-<<<<<<< HEAD
 
             ListContact();
-=======
-           
 
->>>>>>> 9a3df3c750b01ea1226dc0ff1ebb1f5f30c72c8e
+
 
             Console.ReadKey();
         }
+            
+        
     }
 }
