@@ -87,9 +87,9 @@ namespace ContactConsoleApp
                 Console.WriteLine("Contact Updated Fiald!");
             }
         }
-        static void TestUpdateCountry(string CountryName)
+        static void TestUpdateCountry(int id)
         {
-            clsCountry CountryUpdate = clsCountry.FindCountries(CountryName);
+            clsCountry CountryUpdate = clsCountry.FindCountries(id);
 
             CountryUpdate.CountryName = "Germany";
             CountryUpdate.CountryCode = "112";
@@ -165,9 +165,9 @@ namespace ContactConsoleApp
                 Console.WriteLine("No ,Country Is Not Found.");
 
         }
-        static void TestFindCountries(string CountryName)
+        static void TestFindCountries(int id)
         {
-            clsCountry FindCountry = clsCountry.FindCountries(CountryName);
+            clsCountry FindCountry = clsCountry.FindCountries(id);
             if (FindCountry != null)
             {
                 Console.WriteLine($"Country ID : {FindCountry.CountryID}");
@@ -177,7 +177,7 @@ namespace ContactConsoleApp
             }
             else
             {
-                Console.WriteLine("Country [" + CountryName + "] Not Found!");
+                Console.WriteLine("Country [" + id + "] Not Found!");
 
             }
         }
