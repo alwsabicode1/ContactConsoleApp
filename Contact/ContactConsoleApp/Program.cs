@@ -206,8 +206,7 @@ namespace ContactConsoleApp
         static void Main(string[] args)
         {
 
-            TestFindContact(1);
-
+            ListContact();
             Console.ReadKey();
         }
             
