@@ -1,0 +1,9 @@
+C:\Users\Life's smile\source\repos\ContactBusinessLayer\obj\Debug\ContactBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Life's smile\source\repos\ContactBusinessLayer\obj\Debug\ContactBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Life's smile\source\repos\ContactBusinessLayer\bin\Debug\ContactBusinessLayer.dll
+C:\Users\Life's smile\source\repos\ContactBusinessLayer\bin\Debug\ContactBusinessLayer.pdb
+C:\Users\Life's smile\source\repos\ContactBusinessLayer\bin\Debug\ContactDataAccessLayer.dll
+C:\Users\Life's smile\source\repos\ContactBusinessLayer\bin\Debug\ContactDataAccessLayer.pdb
+C:\Users\Life's smile\source\repos\ContactBusinessLayer\obj\Debug\ContactB.3FFCD67B.Up2Date
+C:\Users\Life's smile\source\repos\ContactBusinessLayer\obj\Debug\ContactBusinessLayer.dll
+C:\Users\Life's smile\source\repos\ContactBusinessLayer\obj\Debug\ContactBusinessLayer.pdb

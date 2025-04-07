@@ -1,0 +1,12 @@
+C:\Users\Life's smile\source\repos\ContactConsoleApp\bin\Debug\ContactConsoleApp.exe.config
+C:\Users\Life's smile\source\repos\ContactConsoleApp\bin\Debug\ContactConsoleApp.exe
+C:\Users\Life's smile\source\repos\ContactConsoleApp\bin\Debug\ContactConsoleApp.pdb
+C:\Users\Life's smile\source\repos\ContactConsoleApp\obj\Debug\ContactConsoleApp-PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Life's smile\source\repos\ContactConsoleApp\obj\Debug\ContactConsoleApp-PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Life's smile\source\repos\ContactConsoleApp\obj\Debug\ContactConsoleApp.exe
+C:\Users\Life's smile\source\repos\ContactConsoleApp\obj\Debug\ContactConsoleApp.pdb
+C:\Users\Life's smile\source\repos\ContactConsoleApp\bin\Debug\ContactBusinessLayer.dll
+C:\Users\Life's smile\source\repos\ContactConsoleApp\bin\Debug\ContactDataAccessLayer.dll
+C:\Users\Life's smile\source\repos\ContactConsoleApp\bin\Debug\ContactBusinessLayer.pdb
+C:\Users\Life's smile\source\repos\ContactConsoleApp\bin\Debug\ContactDataAccessLayer.pdb
+C:\Users\Life's smile\source\repos\ContactConsoleApp\obj\Debug\ContactC.9FB9A9C0.Up2Date

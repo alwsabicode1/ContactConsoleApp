@@ -1,0 +1,6 @@
+C:\Users\Life's smile\source\repos\ContactDataAccessLayer\bin\Debug\ContactDataAccessLayer.dll
+C:\Users\Life's smile\source\repos\ContactDataAccessLayer\bin\Debug\ContactDataAccessLayer.pdb
+C:\Users\Life's smile\source\repos\ContactDataAccessLayer\obj\Debug\ContactDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Life's smile\source\repos\ContactDataAccessLayer\obj\Debug\ContactDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Life's smile\source\repos\ContactDataAccessLayer\obj\Debug\ContactDataAccessLayer.dll
+C:\Users\Life's smile\source\repos\ContactDataAccessLayer\obj\Debug\ContactDataAccessLayer.pdb
